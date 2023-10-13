@@ -17,10 +17,11 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/Track_1 Neo Got My Back.mp3",
+                "music/Track_2 Cherry Bomb.mp3",
+                "music/Track_3 DNYL.mp3",
+                "music/Track_4 Limitless.mp3",
+                "music/Track_5 Phantom.mp3"
             ],
             "browser_sounds":
             {
@@ -133,15 +134,15 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 70,
+                        "s": 85,
+                        "l": 52
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 70,
+                        "s": 83,
+                        "l": 85
                     }
                 },
                 "light":
@@ -164,7 +165,7 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "nct.jpg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
